@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: ghcr.io/jiangxiamiao/my-app:73b2a07653ac53692e93f33d1fdcd2fb19912463
+        image: xiamiao/my-app:sha-42158f1
         ports:
         - containerPort: 80
 ---
