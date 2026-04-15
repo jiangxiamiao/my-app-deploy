@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: xiamiao/my-app:sha-42158f1
+        image: xiamiao/my-app:sha-67e191e
         ports:
         - containerPort: 80
 ---
