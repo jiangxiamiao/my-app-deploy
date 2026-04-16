@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: xiamiao/my-app:sha-537d7d1
+        image: registry.cn-hangzhou.aliyuncs.com/jiangxiamiao/jxm:8
         ports:
         - containerPort: 80
 ---
